@@ -14,6 +14,6 @@ print persian_cat
 print backslash_cat
 print fat_cat
 
-while True:
+while False:
 	for i in ["/","-","|","\\","|"]:
 		print "%s\r" % i,
